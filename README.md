@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @BasilBalin.
 - 👀 I’m interested in GameDev 🎮 and Analyzing Musical Sound 🎵 .
-<!---
-- 🌱 I’m currently learning Python for data analytics.
+- 🌱 I’m currently studying DJing for a better understanding of mixing algorithms.
 - 💞️ I’m looking to collaborate on jet, why not!
---->
 - 📫 How to reach me: vasily.balin@gmail.com.
 
 <!---
